@@ -1,8 +1,17 @@
 header{
     color: white;
 }
-#navBar{
+.navBar{
     display: flex;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+}
+
+.list li{
+    margin-right: 20px;
 }
 
 body{
