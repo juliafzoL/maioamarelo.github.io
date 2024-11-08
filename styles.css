@@ -1,0 +1,10 @@
+header{
+    color: white;
+}
+#navBar{
+    display: flex;
+}
+
+body{
+    background-image: linear-gradient(to right, rgba(0,0,0), rgba(235, 192, 20));
+}
